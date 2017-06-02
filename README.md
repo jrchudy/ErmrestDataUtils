@@ -2,6 +2,10 @@
 
 The data import and export utility allows to create new catalog, schemas, tables and entities as well as export them.
 
+### Setup
+
+Run `npm install` to get all of the necessary `package.json` dependencies.
+
 ### Import
 
 To import data you need to provide a configuration that specifies the content to be created, Ermrest API Url and AuthCookie. This could be declared like this
